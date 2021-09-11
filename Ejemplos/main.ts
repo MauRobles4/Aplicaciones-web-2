@@ -8,4 +8,4 @@ function saludar2(nombre :string) {
     console.log(`Hola ${nombre}`);
     
 }
-console.log(saludar2("Moises"));
+console.log(saludar2("Moisesss"));
